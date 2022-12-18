@@ -10,11 +10,11 @@ Adding text to test commit.
 
 ### Wireframes
 
-* [Home Page](./BeenThereHome.png)
+![Home Page](./BeenThereHome.png)
 
-* [Login Page](./BeenThereLogIn.png)
+![Login Page](./BeenThereLogIn.png)
 
-* [Pin Creation](./BeenTherePinCreation.png)
+![Pin Creation](./BeenTherePinCreation.png)
 
 ### Project Tracker
 
