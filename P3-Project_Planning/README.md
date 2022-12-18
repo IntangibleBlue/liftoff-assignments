@@ -10,11 +10,11 @@ Adding text to test commit.
 
 ### Wireframes
 
-* [Home Page](https://github.com/IntangibleBlue/liftoff-assignments/blob/0f27d7a628b15fd6b23071ebb96185c1b9a7bb3c/P3-Project_Planning/BeenThereHome.png)
+* [Home Page](./BeenThereHome.png)
 
-* P3-Project_Planning/BeenThereLogIn.png
+* [Login Page](./BeenThereLogIn.png)
 
-* P3-Project_Planning/BeenTherePinCreation.png
+* [Pin Creation](./BeenTherePinCreation.png)
 
 ### Project Tracker
 
